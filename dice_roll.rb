@@ -5,6 +5,6 @@
 def roll
   list = [1, 2, 3, 4, 5, 6]
   list.sample
-  # rand(1..6)
+  rand(1..6)
   # code goes here
 end
